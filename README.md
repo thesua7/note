@@ -55,8 +55,10 @@ Here are some screenshots of the app in action:
 ## Usage
 
 1. Launch the app.
-2. Navigate through the main screens (provide brief instructions).
-3. Use the app's core functionality (e.g., sign up, search, etc.).
+2. Create Note.
+3. Update/Delete Note.
+4. Toying with colors. 
+5. Clean Structure with minimalist style
 
 ---
 
